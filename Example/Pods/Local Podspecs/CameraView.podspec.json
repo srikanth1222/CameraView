@@ -1,0 +1,22 @@
+{
+  "name": "CameraView",
+  "version": "0.1.0",
+  "summary": "A short description of CameraView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/srikanth1222/CameraView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "srikanth1222": "srikanth.vidapu@piing.com.sg"
+  },
+  "source": {
+    "git": "https://github.com/srikanth1222/CameraView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CameraView/Classes/**/*"
+}

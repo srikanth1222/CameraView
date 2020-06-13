@@ -1,0 +1,6 @@
+framework module CameraView {
+  umbrella header "CameraView-umbrella.h"
+
+  export *
+  module * { export * }
+}
