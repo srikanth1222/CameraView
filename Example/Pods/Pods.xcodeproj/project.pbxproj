@@ -17,7 +17,6 @@
 		A737FBA5CAA98CECE2E4B52282AF96BF /* Pods-CameraView_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = DC6918065F928538B15BB53ADEED1DE4 /* Pods-CameraView_Example-dummy.m */; };
 		E690D1392495335C0042620D /* CameraController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E690D1382495335C0042620D /* CameraController.swift */; };
 		FAC3C788014926D56BEFCE8507F3366E /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
-		FEE2DAA7C61F9F40AE1A98D5B252F4A6 /* ReplaceMe.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F4F40FDB029AFD578529EFE128295E0 /* ReplaceMe.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -41,7 +40,6 @@
 		24DC6C442C5BFE5B27B7ECBB0998DFFD /* Pods-CameraView_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-CameraView_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		3C423CEA36403B60DFCDA325EC267047 /* Pods-CameraView_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-CameraView_Tests.modulemap"; sourceTree = "<group>"; };
-		3F4F40FDB029AFD578529EFE128295E0 /* ReplaceMe.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ReplaceMe.swift; path = CameraView/Classes/ReplaceMe.swift; sourceTree = "<group>"; };
 		489138CB13478105EC3BE649EE8647CD /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		49E272ADF5561651F39D608F667C6450 /* CameraView-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "CameraView-dummy.m"; sourceTree = "<group>"; };
 		4DE9FC6E0A754DC150047C522F98AA0D /* CameraView.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = CameraView.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -175,7 +173,6 @@
 			isa = PBXGroup;
 			children = (
 				E690D1382495335C0042620D /* CameraController.swift */,
-				3F4F40FDB029AFD578529EFE128295E0 /* ReplaceMe.swift */,
 				6F9BC84C115F50B6ADD289F5D563E831 /* Pod */,
 				DB9578C2627AE997A060A4E2F5DC2BA0 /* Support Files */,
 			);
@@ -386,7 +383,6 @@
 			files = (
 				E690D1392495335C0042620D /* CameraController.swift in Sources */,
 				073E9F749C6E5E66DB0F8CEA12CCE46B /* CameraView-dummy.m in Sources */,
-				FEE2DAA7C61F9F40AE1A98D5B252F4A6 /* ReplaceMe.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
