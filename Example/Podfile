@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'CameraView_Example' do
+  pod 'CameraView', :path => '../'
+
+  target 'CameraView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
